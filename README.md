@@ -1,0 +1,1 @@
+# Termin-01_11.03.2023-Virtual-enviroments-Venv
